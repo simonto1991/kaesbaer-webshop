@@ -1,7 +1,5 @@
 # Dependency directories
 node_modules/
-dist/
-dist-ssr/
 
 # Environment files
 .env
