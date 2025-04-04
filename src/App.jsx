@@ -11,7 +11,7 @@ import Contact from './pages/Contact';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/kaesbaer-webshop">
       <div className="min-h-screen bg-gray-100">
         <Navbar />
         <main className="container mx-auto px-4 py-8">
